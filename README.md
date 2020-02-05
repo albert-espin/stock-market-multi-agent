@@ -1,6 +1,6 @@
 # Stock Market modeled as a Multi-Agent System
 
-Simulation of a stock market as a multi-agent system where different types of agents (speculators and enterprises) can buy and sell stock, and eventually earn or lose fictional money. Agent communication protocols are used to make these and other actions possible, such as the formation and management of agent coalitions.
+Simulation of a stock market as a multi-agent system where different types of agents (speculators and enterprises) can buy and sell stock, and eventually earn or lose fictional money. Agent communication protocols are used to make these and other actions possible, such as the formation and management of agent coalitions. This work was programmed in NetLogo, which is also the name of the IDE that can run it.
 
 
 | | |
