@@ -9,6 +9,8 @@ Simulation of a stock market as a multi-agent system where different types of ag
 | **Language**   | English (code variables and functions; UI), Catalan (code comments; documents) |
 | **Authors** | Albert Espín and Pau Sanchez |
 | **Date**  | December 2017  |
+| **Code license**  | MIT |
+| **Report license**  | Creative Commons Attribution, Non-Commercial, Non-Derivative |
 
 
 ## Image Gallery
