@@ -16,5 +16,4 @@ Simulation of a stock market as a multi-agent system where different types of ag
 ## Image Gallery
 
 ![](agents.png)
-![](ui.png)
 ![](plots.png)
